@@ -1,1 +1,3 @@
 *.beam
+.gitignore
+.DS_store
